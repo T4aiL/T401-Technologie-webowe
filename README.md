@@ -22,13 +22,6 @@ https://htmlcheatsheet.com/
 
 JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
 
-### --------ZAD
-```
-T30101 - Przygotuj szachownicę o rozmiarach 400px X 400px wyswietlającą figury w oparciu o znaki specjalne.
-
-ZADANIE DODATKOWE - Podłącz zdarzenie (najechanie kursorem myszy) do pól szachownicy 
-zmieniające kolor ich tła lub krawędzi (jasnoczerwony).
-```
 ### --------Links
 https://github.com/T4aiL/T401-Technologie-webowe
 
