@@ -1,4 +1,4 @@
-# T401 -TechnologieWebowe ADV
+# T401 -TechnologieWebowe Recap
 ## -------INFO
 ```
 1. Technologie webowe
@@ -11,6 +11,7 @@ React,Vue,Angular
 
 2. HTML + CSS + JS recap
 3. JS - ES6 modules
+4. CMS - Wordpress
 ```
 ## Front End, Back end, Full stack developer
 
