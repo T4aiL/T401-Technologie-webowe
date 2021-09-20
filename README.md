@@ -1,4 +1,4 @@
-# T401 (2020.09.07) -TechnologieWebowe ADV
+# T401 -TechnologieWebowe ADV
 ## -------INFO
 ```
 1. Technologie webowe
