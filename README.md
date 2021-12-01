@@ -46,6 +46,7 @@ Hello Roman https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
 
 Overment https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg
 
+[How to Become a Web Developer in 2020](https://www.youtube.com/watch?v=1BPQj438FyQ)
 -------------------------------------
 
 DevEd - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q 
